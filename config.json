@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productconnect",
+        "uuid": 27032298,
+        "checksum": "dh59zb"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
